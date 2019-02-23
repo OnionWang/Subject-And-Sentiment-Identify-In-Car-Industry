@@ -67,4 +67,9 @@ it will produce test_result.csv in result/, then you can run test_eval.py to eva
 BERT fine-tune
 ----------
 pre-trained model https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip
-waiting ...
+
+download and place in bert/
+
+cd bert/
+
+run the same as above usage
