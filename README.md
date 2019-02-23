@@ -39,19 +39,19 @@ Code Framework
 
 Usage
 --------
-# split data to trainset and testset
+**split data to trainset and testset**
 
 cd dataSet/
 
 python split_data.py
 
-# subject predict
+subject predict
 
 python code/subject_classifier.py
 
 it will produce subject_result.csv in result/, then you can run subject_eval.py to evaluate the result
 
-# sentiment predict
+**sentiment predict**
 
 train:
 
