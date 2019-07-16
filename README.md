@@ -73,3 +73,5 @@ download and place in bert/
 cd bert/
 
 run the same as above usage
+
+Cause I don't have GPU, the experiment have not been compeleted la la la la la...
